@@ -1,7 +1,7 @@
-src-git packages https://github.com/coolsnowwolf/packages^80c7bbfd19a01447aba4330ea7af5bc92b8dd3ef
-src-git luci https://github.com/coolsnowwolf/luci^a7f754dfbe07faa12bb04746a6ec751a94d13d61
-src-git routing https://github.com/coolsnowwolf/routing^7086d85595a57f58b5e276b035861d9367806887
-src-git telephony https://git.openwrt.org/feed/telephony.git^2a34d1190e4a9d3e6bee3155137c29df9ce93e81
+src-git packages https://github.com/coolsnowwolf/packages^5ffee9290660232b60ec3b524e5ffdbc0b82b01c
+src-git luci https://github.com/coolsnowwolf/luci^991daf5412e02308865a34d54fa62533249a8b49
+src-git routing https://github.com/coolsnowwolf/routing^160eae1216c166153f1c0d303f41f33ca0032c2c
+src-git telephony https://git.openwrt.org/feed/telephony.git^c093d20a53afda4a0fe79c25a14406617018f57c
 #src-git helloworld https://github.com/fw876/helloworld.git
 #src-git oui https://github.com/zhaojh329/oui.git
 #src-git video https://github.com/openwrt/video.git
@@ -9,5 +9,5 @@ src-git telephony https://git.openwrt.org/feed/telephony.git^2a34d1190e4a9d3e6be
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git helloworld https://github.com/fw876/helloworld
-src-git expacks https://github.com/kenzok8/openwrt-packages^5eaf6c9c5f9b6485986ab06e37b6398f5b1d5b8a
-src-git exlibs https://github.com/kenzok8/small^4503078b32920c52dd4acee07396debe37092c86
+src-git expacks https://github.com/kenzok8/openwrt-packages^d7be4a078877212954355453e1e09fce93a549dd
+src-git exlibs https://github.com/kenzok8/small^1bbb70ca87f85468afa9e95741d1d73c1f62072a
